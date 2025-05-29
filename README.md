@@ -7,6 +7,7 @@ To set up and run the frontend application locally:
 1 : Clone the repository:
 
 git clone (https://github.com/Mayank22236/quickhire.git)
+
 cd task-dashboard-frontend
 
 2 : Install dependencies:
